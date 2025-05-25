@@ -12,7 +12,7 @@ This repository contains solutions to the LeetCode Top Interview 150 questions. 
 
 ## Introduction
 
-This repository aims to provide solutions to the LeetCode Top Interview 150 questions. Solutions are written in various programming languages (e.g., Python, Java, C++), and each solution includes detailed explanations and analysis.
+This repository aims to provide solutions to the LeetCode Top Interview 150 questions. Solutions are written in Python programming language, and each solution includes detailed explanations and analysis. The code is thoroughly documented with comments explaining the logic, methodology, and interpretation of results at each step of the data science workflow.
 
 ## Question List
 
